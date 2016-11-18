@@ -431,4 +431,4 @@ env_vars:
 
 The containerName argument references the image_name property from the container yaml. 
 
-When referencing another container in a template objejct, you must make sure the referenced container is started first.  Please see the [Events and Orchestration](/packaging-an-application/events-and-orchestration/) section for more information on orchestrating container startup.
+When referencing another container in a template object, you must make sure the referenced container is started first.  Please see the [Events and Orchestration](/packaging-an-application/events-and-orchestration/) section for more information on orchestrating container startup.
